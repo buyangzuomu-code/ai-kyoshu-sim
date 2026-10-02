@@ -1,1 +1,1 @@
-# ai-kyoshu-sim
+# ai hyoukasis
